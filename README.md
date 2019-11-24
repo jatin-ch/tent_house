@@ -22,7 +22,7 @@
     sqlite> INSERT INTO Items VALUES(null,'Table Cloths',500, 0)
 
 5. Run the ruby file again
-   ~/mindfire $ ruby index.rb
+   ~/tent_house $ ruby index.rb
    Congrats!! 'Tent Hose Rental' ready to use.
    Welcome to 'Tent Hose Rental'
    choose your option:
